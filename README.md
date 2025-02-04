@@ -1,6 +1,6 @@
 # PDS
 LABORATORIO 1 - ESTADISTICA
-# Análisis Estadístico de Señales Fisiológicas
+# Análisis Estadístico De La Señal
 
 Este proyecto realiza un análisis estadístico y de ruido sobre una señal fisiológica (ECG) utilizando Python. A continuación, se detalla cada sección del código.
 
